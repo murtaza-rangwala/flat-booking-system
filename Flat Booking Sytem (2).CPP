@@ -1,3 +1,7 @@
+// Authors: Murtaza Hatim, Trisha Ann, Ahmed, Brian Peter
+// Conceived Date: 23/12/2017
+
+
 //APARTMENT RETAIL AND MANAGEMENT PROJECT : BOOKING OF FLATS
 
 #include<fstream.h>
